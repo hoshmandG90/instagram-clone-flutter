@@ -3,6 +3,9 @@ A new Flutter project.
 
 ## Getting Started
 
+![Instagram_clone](https://user-images.githubusercontent.com/90029989/143776497-f2fe951a-0970-4d51-a45d-1194271bf13f.jpg)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
